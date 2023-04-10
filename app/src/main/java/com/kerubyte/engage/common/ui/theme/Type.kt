@@ -1,4 +1,4 @@
-package com.kerubyte.engage.ui.theme
+package com.kerubyte.engage.common.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

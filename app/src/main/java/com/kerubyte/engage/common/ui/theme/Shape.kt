@@ -1,4 +1,4 @@
-package com.kerubyte.engage.ui.theme
+package com.kerubyte.engage.common.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
